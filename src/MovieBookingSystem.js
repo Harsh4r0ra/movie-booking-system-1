@@ -22,7 +22,7 @@ const THEATERS = [
     name: 'PVR Cinemas',
     location: 'Mumbai',
     movies: [
-      { id: 1, name: 'Inception', showTime: '2024-10-26T14:30:00' },
+      { id: 1, name: 'Inception', showTime: '2024-10-28T14:30:00' },
       { id: 2, name: 'The Dark Knight', showTime: '2024-10-26T18:00:00' }
     ]
   },
